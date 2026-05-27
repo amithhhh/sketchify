@@ -1,4 +1,4 @@
-# Sketch Image Generator in C
+# Sketchify using C
 
 A low-level image processing project written entirely in **C** that transforms normal images into sketch-like edge representations using the **Sobel Edge Detection Algorithm**.
 
@@ -10,15 +10,12 @@ Unlike high-level computer vision frameworks, this project focuses on implementi
 
 ## Input Image
 
-(Add your original image here)
 
 ![Input](input/luffy.png)
 
 ---
 
 ## Output Sketch
-
-(Add generated sketch image here)
 
 ![Output](output/sketch.png)
 
